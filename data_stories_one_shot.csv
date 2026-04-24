@@ -1,0 +1,131 @@
+Plot_Name,Stage,Quality,Sentence
+walk dog,1,1,This is a line chart with error bars.
+walk dog,1,1,The chart title is 'Walk dog'.
+walk dog,1,1,The y-axis represents 'Mean anxiety'.
+walk dog,1,1,"The x-axis indicates conditions such as 'Baseline', 'After 30 minutes', and presence or absence of 'Dog'."
+walk dog,1,1,The chart compares mean anxiety levels with and without a dog over time.
+walk dog,2,1,The mean anxiety level without a dog starts at around 6 and remains close to this value after 30 minutes.
+walk dog,2,1,The mean anxiety level with a dog starts at around 6 and drops significantly to below 4 after 30 minutes.
+walk dog,2,1,"There is a downward trend in anxiety levels for both conditions, but the drop is more pronounced in the 'Dog' condition."
+walk dog,1,0.5,"The error bars indicate 95% confidence intervals, which provides an understanding of variability and reliability in the data."
+walk dog,2,1,Having a dog reduces anxiety levels more significantly compared to not having a dog.
+walk dog,3,1,The substantial drop in anxiety levels with a dog suggests a potential therapeutic benefit of dog companionship.
+tropic storm,1,1,This is a bar chart.
+tropic storm,1,1,The title of the chart is 'Tropical storm and hurricane frequency'.
+tropic storm,1,1,The chart shows data for the Atlantic region.
+tropic storm,1,1,The y-axis measures the monthly average on a scale from 0 to 7.
+tropic storm,1,1,The x-axis displays the months from May to December.
+tropic storm,1,1,"Three types of data are displayed: Tropical storms in green, Hurricanes in red, and both combined in grey."
+tropic storm,2,1,"September has the highest combined frequency of tropical storms and hurricanes, reaching nearly 6 on the monthly average."
+tropic storm,2,0.5,"The frequency of tropical storms peaks in August and September, both reaching around 3."
+tropic storm,2,1,"Hurricanes show an increase in frequency from June to September, peaking in September at nearly 3."
+tropic storm,2,1,The combined frequency of storms and hurricanes is lowest in May and December.
+tropic storm,2,1,Data suggests that hurricane and tropical storm activity is significantly higher from August to October.
+tropic storm,2,1,The chart indicates that hurricane season in the Atlantic region is most active from August to October.
+tropic storm,2,1,The monthly average for hurricanes does not exceed 3 during any month.
+MAP,1,0,I am unsure of the chart type
+MAP,1,1,The chart shows the change in median percentile rank in NWEA MAP Growth assessments for reading and math from fall 2019 to fall 2021 by grade level and race/ethnicity group.
+MAP,1,1,The chart is divided into two main sections: Reading and Math.
+MAP,1,1,"For each section, there are separate subplots for different racial/ethnic groups: American Indian and Alaska Native, Asian, Black, Hispanic, and White."
+MAP,1,1,The x-axis represents grade levels from 3 to 8.
+MAP,1,1,The y-axis represents the change in median percentile rank ranging from 20 to 80.
+MAP,1,1,"In the Reading section, the changes in median percentile rank for American Indian and Alaska Native students range from -7 to -3 across different grade levels."
+MAP,2,1,"For Asian students, the changes are relatively small, ranging from -4 to 1."
+MAP,2,1,"Black students show significant declines in median percentile rank, particularly in earlier grades."
+MAP,2,1,Hispanic students also show declines across all grade levels with some variability.
+meaningful,1,0,I am unsure of the chart type
+meaningful,1,1,The chart is titled 'What makes life meaningful'.
+meaningful,1,1,It displays the percentage of each public that mentioned specific topics in their open-ended responses.
+meaningful,1,1,The x-axis represents the percentage ranging from 0% to 100%.
+meaningful,1,1,"The y-axis lists various countries including Australia, New Zealand, Greece, US, UK, Sweden, Italy, and others."
+meaningful,1,1,"The topics mentioned in responses include Pets, Spouses and Romantic Partners, Friends, Community and Other Relationships, and Family and Children."
+meaningful,1,1,"Each topic is represented by a different color: Pets (blue), Spouses and Romantic Partners (red), Friends, community and other relationships (blue), and Family and Children (yellow)."
+meaningful,2,1,"The chart shows that for many countries, 'Friends, Community and Other Relationships' and 'Family and Children' are significant aspects that make life meaningful."
+meaningful,2,0,Japan had the highest percentage for 'Family and Children' responses compared to other countries.
+meaningful,2,0.5,"Greece, Sweden, Italy, and Canada show a notable percentage for 'Spouses and Romantic Partners'."
+meaningful,2,1,"In several countries like Australia and New Zealand, 'Friends, Community and Other Relationships' are highlighted prominently."
+STEM,1,1,This chart appears to be a grouped bar chart.
+STEM,1,1,The chart displays the percentage distribution of different racial groups across various job sectors.
+STEM,1,1,"There are five racial groups represented: Black, Hispanic, Asian, Other, and White."
+STEM,1,1,The first group of bars on the left shows the percentage of each racial group in all jobs and all STEM jobs.
+STEM,1,1,"White individuals occupy the highest percentage of all jobs at 63%, and 67% of STEM jobs."
+STEM,2,1,Asian individuals have the highest representation in STEM jobs (at 13%) relative to all jobs (6%).
+STEM,2,1,Black and Hispanic individuals have lower representation in STEM jobs compared to their representation in all jobs.
+STEM,1,1,"For Black individuals, the representation in all jobs is 11%, while in STEM jobs, it's 9%."
+STEM,1,1,"For Hispanic individuals, the representation in all jobs is 17%, while in STEM jobs, it's 8%."
+time use,1,1,The visualization consists of two charts: a dot plot on the left and a stacked area chart on the right.
+time use,1,1,"The chart title is 'Time usage', providing context for the data presented."
+time use,1,1,The dot plot displays the relationship between the number of social media platforms used and happiness.
+time use,1,1,The stacked area chart shows the daily minutes spent in solo leisure activities over time.
+time use,1,1,"In the dot plot, each dot represents a point of data with error bars indicating the variability."
+time use,1,1,The number of social media platforms ranges from 0 to 8+.
+time use,1,1,Happiness values range from -0.50 to 0.50.
+time use,1,1,"The colors of the dots denote different data points, with a trend towards red for higher numbers of platforms."
+time use,1,1,"In the stacked area chart, the x-axis represents the year, ranging from 1965 to 2019."
+time use,1,1,The y-axis on the stacked area chart represents daily minutes spent in solo leisure activities.
+degree,1,1,This is a horizontal bar chart displaying earnings and unemployment rates by educational attainment for 2020.
+degree,1,1,The chart shows the median usual weekly earnings in dollars and unemployment rate percentages for different levels of education.
+degree,1,1,"Individuals with a doctoral degree have a median weekly earning of $1,885 and an unemployment rate of 2.5%."
+degree,1,1,"Professional degree holders have the highest median weekly earnings at $1,893."
+degree,2,1,The unemployment rate tends to decrease as the level of educational attainment increases.
+degree,1,1,"Master's degree holders have a median weekly earning of $1,545 and an unemployment rate of 4.1%."
+degree,1,1,"Bachelor's degree holders earn a median of $1,305 per week with an unemployment rate of 5.5%."
+degree,1,1,Associate's degree holders earn $938 per week and face a 7.1% unemployment rate.
+degree,1,1,People with some college but no degree have median earnings of $877 per week and an unemployment rate of 8.3%.
+vaccine,1,1,This is a bar chart.
+vaccine,1,1,"The title of the chart is 'Weekly average deaths per 100,000'."
+vaccine,1,1,The data covers the period from October to November 2021.
+vaccine,1,1,"There are three categories compared: Unvaccinated, Vaccinated (no booster), and With booster."
+vaccine,2,1,"The 'Unvaccinated' category shows the highest death rate at 7.8 per 100,000."
+vaccine,2,1,"The 'Vaccinated, no booster' category shows a significantly lower death rate at 0.6 per 100,000."
+vaccine,2,1,"The 'With booster' category has the lowest death rate at 0.1 per 100,000."
+vaccine,2,1,"Vaccinated individuals, regardless of booster, have a substantially lower risk of death compared to unvaccinated individuals."
+vaccine,2,1,The chart suggests that receiving a booster dose further reduces the weekly average deaths.
+vaccine,3,1,The significant difference in the bar lengths emphasizes the effectiveness of vaccination and boosters.
+vaccine,3,1,The visualization highlights the importance of vaccination in reducing mortality rates during the given period.
+wealth gap,1,1,This is a line chart combined with scatter plot showing two lines and individual survey response points.
+wealth gap,1,1,The x-axis represents the years from 1960 to 2016.
+wealth gap,1,1,The y-axis represents the wealth in dollars with increments from 0 to 200.
+wealth gap,1,1,There are two lines on the chart: an orange line for 'perception' and a blue line for 'actual'.
+wealth gap,2,1,The orange line (perception) remains significantly below the black horizontal line indicating equal wealth.
+wealth gap,2,0,"The blue line (actual) indicates the actual wealth, which also remains below the black horizontal line but shows an increasing trend over time."
+wealth gap,2,1,The chart shows that Americans severely underestimate the racial wealth gap.
+wealth gap,2,1,The perception line starts at about $50 in the 1960s and gradually increases to about $60 in 2016.
+wealth gap,2,0.5,The actual wealth line starts close to zero and increases to around $13 in 2016.
+wealth gap,1,1,"The individual survey response points are scattered along the y-axis for each year, clustering around the perception line."
+wealth gap,2,0,The gap between perceived and actual wealth is consistent across all years.
+wealth gap,2,0,"Despite some fluctuations, the actual wealth line shows a general upward trend over the period."
+youtube,1,1,The chart type is a heatmap.
+youtube,1,1,The heatmap shows the activity levels of viewers on YouTube.
+youtube,1,1,The chart covers viewer activity over the last 28 days.
+youtube,1,1,The x-axis represents days of the week.
+youtube,1,1,The y-axis represents time of day in 6-hour intervals.
+youtube,1,1,Purple color intensity indicates higher viewer activity.
+youtube,2,1,Viewers tend to be most active between 6:00 AM and 12:00 PM on weekdays.
+youtube,2,1,Wednesdays and Fridays appear to have the highest viewer activity levels.
+youtube,2,0,Sunday has the least viewer activity consistently.
+youtube,2,1,Early mornings before 6:00 AM show more activity compared to evenings after 6:00 PM.
+youtube,2,1,Mondays and Thursdays exhibit similar viewer activity patterns.
+youtube,2,1,There's a noticeable decline in viewer activity from 6:00 PM onwards across all days.
+vaccine rate,1,0,I am unsure of the chart type
+vaccine rate,1,0.5,The chart displays vaccination rates by county social vulnerability.
+vaccine rate,1,0.5,The x-axis represents the percentage of the fully-vaccinated population from 0% to 75%.
+vaccine rate,1,1,The y-axis orders counties from most vulnerable to least vulnerable.
+vaccine rate,1,1,"Each circle represents a county, with its size corresponding to the population size."
+vaccine rate,1,1,"Circles are color-coded by region: Midwest, Northeast, South, and West."
+vaccine rate,2,1,Most vulnerable counties have a wide range of vaccination rates scattered between 10% and 65%.
+vaccine rate,2,1,"Counties with moderate social vulnerability show similar vaccination patterns to the most vulnerable, but are slightly more concentrated between 30% and 65%."
+vaccine rate,2,1,"Least vulnerable counties exhibit a wide range of vaccination rates as well, spreading primarily between 40% and 70%."
+vaccine rate,2,1,The average vaccination rate line shows a rise in vaccination percentages from most vulnerable to least vulnerable counties.
+vaccine rate,2,1,The South region (orange) shows significant dispersion in vaccination rates across all levels of social vulnerability.
+vaccine rate,2,1,The Midwest (blue) and Northeast (red) regions appear to have more counties with higher vaccination rates compared to the South.
+solar activity,1,0,I am unsure of the chart type
+solar activity,1,1,The chart is titled 'Temperature vs Solar Activity'
+solar activity,1,1,"The x-axis represents the year, ranging from 1880 to 2020"
+solar activity,1,1,"The left y-axis represents Total Solar Irradiance (W/m²), ranging from 1360 to 1363"
+solar activity,1,1,"The right y-axis represents temperature change (°C), ranging from -1.0 to 1.0"
+solar activity,1,1,The chart includes two data series for temperature: 'Temperature yearly' in thin light red and 'Temperature 11-year average' in thick dark red
+solar activity,1,1,The chart includes two data series for solar irradiance: 'Solar Irradiance yearly' in thin light blue and 'Solar Irradiance 11-year average' in thick dark blue
+solar activity,2,1,There is a visible increase in the temperature 11-year average from 1880 to 2020
+solar activity,2,1,"Annual global temperatures markedly increase, especially from around 1970 onwards"
+solar activity,2,1,Solar irradiance shows fluctuations over the years but the 11-year average remains relatively stable with minor changes
